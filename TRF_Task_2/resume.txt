@@ -1,0 +1,91 @@
+<html>
+<head>
+<style>
+table, th, td {
+  width="60%";
+  border:1px solid black;
+  border-radius:10px;
+}
+</style>
+</head>
+<body>
+<img src="C:\Users\Admin\Desktop\Resume\Profile.jpeg" width="240" , height="300" , align="left"></img>
+<br>
+<p align="right">
+<h1>Name: Hrutuja Mirgal</h1>
+<br>
+<h2>Email: hrutuja.mirgal21@vit.edu</h2>
+<br>
+<h3>Contact:7039592681</h3>
+</p>
+<h3> Objective:</h3>
+<p></p>
+<h3>Education:</h3>
+<table style="width:60%" >
+<tr>
+   <th>Institute</th>
+   <th>Year</th>
+   <th>Qualified</th>
+   <th>Marks</th>
+</tr>
+<tr>
+   <td>Vishwakarma Institute of Technology</td>
+   <td>2022</td>
+   <td>II Sem</td>
+   <td>9.05 cgpa</td>
+</tr>
+<tr>
+   <td>Vishwakarma Institute of Technology</td>
+   <td>2022</td>
+   <td>I Sem</td>
+   <td>9.45 cgpa</td>
+</tr>
+<tr>
+   <td>St. Joseph High School and Junior College</td>
+   <td>2019-2021</td>
+   <td>HSC</td>
+   <td>92.67%</td>
+</tr>
+<tr>
+   <td>Carmel Convent High School</td>
+   <td>2006-2019</td>
+   <td>SSC</td>
+   <td>92.60%</td>
+</tr>
+</table>
+<h3> Skills</h3>
+<table style="width:100%" >
+<tr>
+     <th align="left">Tehnical Skills</th>
+     <th align="left">Interests</th>
+     <th align="left">Languages</th>
+</tr>
+<tr>
+     <td>
+         <ol type="1">
+         <li>Microsoft Power Point</li>
+         <li>C</li>
+         <li>C++</li>
+         <li>Python</li>
+         <li>Java</li> 
+    </td>
+    <td>
+         <ul type=square>
+         <li>Trecking</li>
+         <li>Watching Series</li>
+         <li>Sports</li>
+    </td>
+    <td>
+         <ol type="i">
+         <li>English</li>
+         <li>Hindi</li>
+         <li>Marathi</li>
+    </td>   
+</tr>
+</table>
+<hr>
+<hr>
+<h4>Contact at:</h4>
+<pre>
+Instagram:<a href="https://www.instagram.com/hrutuja_mirgal_293/">hrutuja_mirgal293</a>    Linkden:<a href="https://www.linkedin.com/in/hrutuja-mirgal-2a098122b/">Hrutuja Mirgal</a> 
+</pre>
